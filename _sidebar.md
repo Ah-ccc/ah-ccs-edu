@@ -1,3 +1,3 @@
 - [首页](README.md)
-- [环境安装](/docs/0ccs学习笔记.md)
+- [环境安装](docs/0ccs学习笔记.md)
 - [图形化配置](try.md)
