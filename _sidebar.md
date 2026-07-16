@@ -1,3 +1,12 @@
 - [首页](README.md)
-- [环境安装](docs/0ccs学习笔记.md)
-- [图形化配置](graphic configuration/graphic.md)
+
+- **CCS 开发**
+- [环境安装](env/0ccs学习笔记.md)
+- [图形化配置](cfg/图形化配置.md)
+  - [常见问题](/常见问题.md)
+
+- **TI 开发板**
+  - [开发环境搭建](docs/ti/开发环境搭建.md)
+  - [调试技巧](docs/ti/调试技巧.md)
+
+
